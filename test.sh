@@ -1,1 +1,0 @@
-echo $env:P1
