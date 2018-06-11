@@ -1,1 +1,1 @@
-echo $P1
+echo hello world
