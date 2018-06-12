@@ -1,1 +1,1 @@
-echo $env:P1
+echo "hello world"
