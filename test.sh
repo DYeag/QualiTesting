@@ -1,1 +1,2 @@
+echo $SetupParam
 echo $Address
